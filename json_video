@@ -1,0 +1,100 @@
+{
+  "video": [
+    {
+      "video_lesson": "/video/1.mp4",
+      "view": "",
+      "title": "JavaScript darslari if statement",
+      "like": "",
+      "dislike": "",
+      "id": 1
+    },
+    {
+      "video_lesson": "/video/2.mp4",
+      "view": "",
+      "title": "JavaScript darslari datatiplar",
+      "like": "",
+      "dislike": "",
+      "id": 2
+    },
+    {
+      "video_lesson": "/video/3.mp4",
+      "view": "",
+      "title": "JavaScript darslaris ",
+      "like": "",
+      "dislike": "",
+      "id": 3
+    },
+    {
+      "video_lesson": "/video/4.mp4",
+      "view": "",
+      "title": "JavaScript darslari while Loop",
+      "like": "",
+      "dislike": "",
+      "id": 4
+    },
+    {
+      "video_lesson": "/video/5.mp4",
+      "view": "",
+      "title": "JavaScript darslarif",
+      "like": "",
+      "dislike": "",
+      "id": 5
+    },
+    {
+      "video_lesson": "/video/6.mp4",
+      "view": "",
+      "title": " Python",
+      "like": "",
+      "dislike": "",
+      "id": 6
+    },
+    {
+      "video_lesson": "/video/7.mp4",
+      "view": "",
+      "title": "JavaScript darslari if statement",
+      "like": "",
+      "dislike": "",
+      "id": 7
+    },
+    {
+      "video_lesson": "/video/8.mp4",
+      "view": "",
+      "title": " react darslari",
+      "like": "",
+      "dislike": "",
+      "id": 8
+    },
+    {
+      "video_lesson": "/video/9.mp4",
+      "view": "",
+      "title": "react full course",
+      "like": "",
+      "dislike": "",
+      "id": 9
+    },
+    {
+      "video_lesson": "/video/10.mp4",
+      "view": "",
+      "title": "javascript full course",
+      "like": "",
+      "dislike": "",
+      "id": 10
+    },
+    {
+      "video_lesson": "/video/11.mp4",
+      "view": "",
+      "title": "javascript darslari",
+      "like": "",
+      "dislike": "",
+      "id": 11
+    },
+    {
+      "video_lesson": "/video/12.mp4",
+      "view": "",
+      "title": "JavaScript darslari ",
+      "like": "",
+      "dislike": "",
+      "id": 12
+    }
+  ]
+}
